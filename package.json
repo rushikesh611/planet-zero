@@ -1,0 +1,21 @@
+{
+    "name": "planet-zero",
+    "displayName": "Planet Zero",
+    "description": "A minimal, dark theme for VS Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Planet Zero",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Planet Zero-color-theme.json"
+            }
+        ]
+    }
+}

@@ -1,14 +1,11 @@
 # COMING SOON
 
 <p align="center">
-  <img alt="Planet Zero Logo" src="https://raw.githubusercontent.com/rushikesh611/planet-zero/master/images/logo.png" width="100" />
+  <img alt="Planet Zero Logo" src="https://raw.githubusercontent.com/rushikesh611/planet-zero/master/images/logo.png" width="30%" />
 </p>
-<h1 align="center">
-  Planet Zero
-</h1>
-<p align="center">
+<h2 align="center">
   A minimal, dark theme for <a href="https://code.visualstudio.com">Visual Studio Code 🚀</a>.
-</p>
+</h2>
 
 ## Installation via VS Code
 

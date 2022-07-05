@@ -1,5 +1,8 @@
 # COMING SOON
 
+<p align="center">
+  <img alt="Planet Zero Logo" src="https://raw.githubusercontent.com/rushikesh611/planet-zero/master/images/logo.png" width="100" />
+</p>
 <h1 align="center">
   Planet Zero
 </h1>

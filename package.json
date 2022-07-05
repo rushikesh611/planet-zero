@@ -1,21 +1,41 @@
 {
-    "name": "planet-zero",
-    "displayName": "Planet Zero",
-    "description": "A minimal, dark theme for VS Code.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.68.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Planet Zero",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Planet Zero-color-theme.json"
-            }
-        ]
-    }
+  "name": "planet-zero",
+  "displayName": "Planet Zero",
+  "description": "A minimal, dark theme for VS Code.",
+  "version": "0.0.1",
+  "publisher": "rushikesh611",
+  "icon": "images/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rushikesh611/planet-zero"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "color-theme",
+    "Night Owl",
+    "Night Theme",
+    "Minimal",
+    "Planet Zero"
+  ],
+  "homepage": "https://github.com/rushikesh611/planet-zero/blob/master/README.md",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#171c28",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Planet Zero",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Planet Zero-color-theme.json"
+      }
+    ]
+  }
 }
